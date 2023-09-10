@@ -1,0 +1,13 @@
+com.jinsihou.react.snippets
+com.intellij.zh
+com.markskelton.one-dark-theme
+AceJump
+IdeaVIM
+org.jetbrains.IdeaVim-EasyMotion
+com.github.copilot
+org.intellij.plugins.postcss
+io.github.mishkun.ideavimsneak
+org.intellij.prisma
+cn.yiiguxing.plugin.translate
+izhangzhihao.rainbow.brackets
+com.mallowigi
